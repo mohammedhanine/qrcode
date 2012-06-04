@@ -1,4 +1,3 @@
-qrcode
+QR code
 ======
-
-QR Code
+http://sourceforge.net/projects/phpqrcode/
